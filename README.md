@@ -19,10 +19,10 @@ $ npm install
 In the project directory, you can run:
 
 ### npm start
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
-The page will reload if you make edits.<br>
+The page will reload if you make edits.
 You will also see any lint errors in the console.
 ```
 
@@ -31,23 +31,23 @@ You will also see any lint errors in the console.
 ### Input text
 Input of type text.
 
-|PROPERTY		 |TYPE                           |REQUIRED                      |DEFAULT                      |
-|----------------|-------------------------------|-----------------------------|-----------------------------|
-|VALUE			|Object            |true            |{}            |
-|LABEL          |String            |false            |-            |
-|PLACEHOLDER    |String			   |true            |-            |
-|ONCHANGE       |Function		   |true            |{}            |
+|PROPERTY	 |TYPE                   	|REQUIRED                     |DEFAULT                      |
+|----------------|------------------------------|-----------------------------|-----------------------------|
+|VALUE		 |Object            		|true            	      |{}            		    |
+|LABEL           |String            		|false                        |-                            |
+|PLACEHOLDER     |String			|true              	      |-                            | 
+|ONCHANGE        |Function		   	|true            	      |{}                           |
 
 
 ### Button
-Input of type text.
+Clickable button.
 
-|PROPERTY		 |TYPE                           |REQUIRED                      |DEFAULT                      |
+|PROPERTY	 |TYPE                   	 |REQUIRED                     |DEFAULT                      |
 |----------------|-------------------------------|-----------------------------|-----------------------------|
-|VARIANT          |String            |true            |fill            |
-|WORDING    |String			   |true            |-            |
-|ONCLICK       |Function		   |true            |{}            |
-|DISABLED       |Boolean		   |false            |-            |
+|VARIANT         |String                         |true                         |            		     |
+|WORDING    	 |String			 |true                         |-                            |
+|ONCLICK         |Function		         |true                         |{}                           |
+|DISABLED        |Boolean		         |false                        |-                            |
 
 ## Dependencies
 
@@ -55,4 +55,5 @@ This project uses:
 <ul>
 	<li><a href="https://reactjs.org/">React.JS</a></li>
 	<li><a href="https://www.styled-components.com">Styled-components</a></li>
+	<li><a href="https://www.npmjs.com/package/prop-types">Prop-Types</a></li>
 </ul>
