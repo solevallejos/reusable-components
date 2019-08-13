@@ -33,10 +33,10 @@ Input of type text.
 
 |PROPERTY	 |TYPE                   	|REQUIRED                     |DEFAULT                      |
 |----------------|------------------------------|-----------------------------|-----------------------------|
-|VALUE		 |Object            		|true            	      |{}            		    |
+|VALUE		 |Object            		|true            	      |-            		    |
 |LABEL           |String            		|false                        |-                            |
 |PLACEHOLDER     |String			|true              	      |-                            | 
-|ONCHANGE        |Function		   	|true            	      |{}                           |
+|ONCHANGE        |Function		   	|true            	      |-                           |
 
 
 ### Button
@@ -44,10 +44,10 @@ Clickable button.
 
 |PROPERTY	 |TYPE                   	 |REQUIRED                     |DEFAULT                      |
 |----------------|-------------------------------|-----------------------------|-----------------------------|
-|VARIANT         |String                         |true                         |            		     |
+|VARIANT         |String                         |true                         |-            		     |
 |WORDING    	 |String			 |true                         |-                            |
-|ONCLICK         |Function		         |true                         |{}                           |
-|DISABLED        |Boolean		         |false                        |-                            |
+|ONCLICK         |Function		         |true                         |-                           |
+|DISABLED        |Boolean		         |false                        |false                            |
 
 ## Dependencies
 
