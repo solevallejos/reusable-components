@@ -1,0 +1,92 @@
+{
+	"text": {
+		"h1": {
+			"font-family": "Patrick Hand",
+			"color": "#191919",
+			"font-size": "2.5rem",
+			"position": "relative",
+			"text-transform": "uppercase",
+			"z-index": "1",
+			"font-weight": "700"
+		},
+		"h2": {
+			"font-family": "Patrick Hand",
+			"color": "#191919",
+			"font-size": "1.9rem"
+		},
+		"h3": {
+			"font-family": "Patrick Hand",
+			"color": "#191919",
+			"font-size": "1.5rem"
+		},
+		"description": {
+			"color": "#191919",
+			"opacity": "0.9",
+			"font-family": "Lato"
+		}
+	},
+	"button": {
+		"font-family": "Patrick Hand",
+		"font-size": "1rem",
+		"font-weight": "bold",
+		"text-transform": "uppercase",
+		"borderRadius": "1px",
+		"fill": {
+			"normal": {
+				"background-color": "#e9c826",
+				"color": "#ffffff",
+				"border": "none",
+				"text-transform": "uppercase",
+				"border-radius": "255px 35px 225px 25px/45px 225px 15px 255px"
+			},
+			"hover": {
+				"background-color": "#d98942",
+				"color": "#ffffff",
+				"text-transform": "uppercase",
+				"border-radius": "255px 35px 225px 25px/45px 225px 15px 255px"
+			}
+		},
+		"clear": {
+			"normal": {
+				"background-color": "transparent",
+				"color": "#30584a",
+				"text-transform": "uppercase",
+				"border": "4px solid #30584a",
+				"border-radius": "255px 35px 225px 25px/45px 225px 15px 255px"
+			},
+			"hover": {
+				"background-color": "#30584a",
+				"color": "#ffffff",
+      	"border-radius": "255px 35px 225px 25px/45px 225px 15px 255px"
+			}
+		}
+	},
+	"input": {
+		"label": {
+			"font-family": "Patrick Hand",
+			"text-transform": "uppercase",
+			"font-size": "1rem",
+			"font-weight": "700",
+			"color": "#191919"
+		},
+		"input": {
+			"font-family": "Lato",
+			"font-size": "1rem",
+			"border": "3px solid #fa0775",
+			"border-radius": "2px",
+			"focus": {
+				"border": "3px solid #b2f0eb"
+			}
+		}
+	},
+	"container": {
+		"background-color": "#ffffff"
+	},
+	"response": {
+		"background-color": "#b2f0eb",
+		"font-family": "Lato"
+	},
+	"theme": {
+		"border-bottom": "2px solid rgba(48, 88, 74, 0.4)"
+	}
+}

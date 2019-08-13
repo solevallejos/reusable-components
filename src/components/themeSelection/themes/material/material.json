@@ -1,0 +1,108 @@
+{
+	"text": {
+		"h1": {
+			"font-family": "Roboto",
+			"color": "#191919",
+			"highlight": "",
+			"font-size": "2.5rem",
+			"position": "relative",
+			"text-transform": "uppercase",
+			"z-index": "1",
+			"font-weight": "700"
+		},
+		"h2": {
+			"font-family": "Roboto",
+			"color": "#191919",
+			"font-size": "1.9rem"
+		},
+		"h3": {
+			"font-family": "Roboto",
+			"color": "#191919",
+			"font-size": "1.5rem"
+		},
+		"description": {
+			"color": "#191919",
+			"opacity": "0.9",
+			"font-family": "Lato"
+		},
+		"highlight": {
+			"background-color": "",
+			"color": "",
+			"height": ""
+		}
+	},	
+	"button": {
+		"font-family": "Roboto",
+		"font-size": "1rem",
+		"font-weight": "bold",
+		"text-transform": "uppercase",
+		"borderRadius": "1px",
+		"fill": {
+			"normal": {
+				"background-color": "#ee7d84",
+				"color": "#ffffff",
+				"border": "none",
+				"box-shadow": "",
+				"text-transform": "uppercase"
+			},
+			"hover": {
+				"background-color": "#5e52dc",
+				"color": "#ffffff",
+				"border": "none",
+				"box-shadow": "none",
+				"text-transform": "uppercase"
+			}
+		},
+		"clear": {
+			"normal": {
+				"background-color": "transparent",
+				"color": "#5e52dc",
+				"border": "4px solid #5e52dc",
+				"box-shadow": "",
+				"text-transform": "uppercase"
+			},
+			"hover": {
+				"background-color": "#5e52dc",
+				"color": "#ffffff",
+				"border": "4px solid #5e52dc"
+			}
+		}
+	},
+	"input": {
+		"label": {
+			"font-family": "Roboto",
+			"text-transform": "uppercase",
+			"font-size": "1rem",
+			"font-weight": "700",
+			"color": "#ee7d84"
+		},
+		"input": {
+			"font-family": "Lato",
+			"font-size": "1rem",
+			"border": "3px solid #eeeeee",
+			"border-radius": "2px",
+			"focus": {
+				"border": "3px solid #b6b4d6"
+			}
+		}
+	},
+	"container": {
+		"background-color": "#ffffff",
+		"border": "2px solid #eeeeee",
+		"border-radius": "2px",
+		"box-shadow": ""
+	},
+	"wrapper": {
+		"background-color": "#ffffff",
+		"background-image": "url(https://i.imgur.com/5RgREkU.jpg)",
+		"background-size": "cover",
+		"background-repeat": "no-repeat"
+	},
+	"response": {
+		"background-color": "#b6b4d6",
+		"font-family": "Lato"
+	},
+	"theme": {
+		"border-bottom": "2px solid rgba(204, 204, 204, .4)"
+	}
+}

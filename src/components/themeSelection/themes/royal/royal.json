@@ -1,0 +1,103 @@
+{
+	"text": {
+		"h1": {
+			"font-family": "Merriweather",
+			"color": "#ffde25",
+			"highlight": "",
+			"font-size": "2.5rem",
+			"position": "relative",
+			"text-transform": "uppercase",
+			"z-index": "1",
+			"font-weight": "700"
+		},
+		"h2": {
+			"font-family": "Merriweather",
+			"color": "#d43422",
+			"font-size": "1.9rem"
+		},
+		"h3": {
+			"font-family": "Merriweather",
+			"color": "#ffffff",
+			"font-size": "1.5rem"
+		},
+		"description": {
+			"color": "#ffde25",
+			"opacity": "0.9",
+			"font-family": "Lato"
+		},
+		"highlight": {
+			"background-color": "#4395b8",
+			"color": "#ffffff",
+			"height": "4px"
+		}
+	},	
+	"button": {
+		"font-family": "Merriweather",
+		"font-size": "1rem",
+		"font-weight": "bold",
+		"text-transform": "uppercase",
+		"borderRadius": "1px",
+		"fill": {
+			"normal": {
+				"background-color": "#ffffff",
+				"color": "#4395b8",
+				"border": "none",
+				"text-transform": "uppercase"
+			},
+			"hover": {
+				"background-color": "#4395b8",
+				"color": "#ffffff",
+				"border": "none",
+				"box-shadow": "none",
+				"text-transform": "uppercase"
+			}
+		},
+		"clear": {
+			"normal": {
+				"background-color": "transparent",
+				"color": "#4395b8",
+				"border": "4px solid #4395b8",
+				"text-transform": "uppercase"
+			},
+			"hover": {
+				"background-color": "#4395b8",
+				"color": "#ffffff",
+				"border": "4px solid #4395b8"
+			}
+		}
+	},
+	"input": {
+		"label": {
+			"font-family": "Merriweather",
+			"text-transform": "uppercase",
+			"font-size": "1rem",
+			"font-weight": "700",
+			"color": "#ffffff"
+		},
+		"input": {
+			"font-family": "Lato",
+			"font-size": "1rem",
+			"border": "3px solid #d43422",
+			"border-radius": "2px",
+			"focus": {
+				"border": "3px solid #4395b8"
+			}
+		}
+	},
+	"container": {
+		"background-color": "#1e2852",
+		"border": "4px solid #d43422",
+		"box-shadow": "10px 10px 0px 0px #d43422"
+	},
+	"wrapper": {
+		"background-color": "#1e2852",
+		"background-repeat": "repeat"
+	},
+	"response": {
+		"background-color": "#4395b8",
+		"font-family": "Lato"
+	},
+	"theme": {
+		"border-bottom": "2px solid rgb(67, 149, 184, 0.8)"
+	}
+}
